@@ -5,16 +5,16 @@
   <samp>
     :wave: Hi! I'm Delphine ! 
     <br>I'm a web and mobile developer student
-    <br>at <em>Wild Code School</em> in Paris<br><br>
-    <img src="https://media.tenor.com/images/36b2219bce143359a23e9e7d148c0820/tenor.gif" width="240px" align="center">
+    <br>at <em>Wild Code School</em> in Paris:sparkles:<br><br>
+    <img src="https://media.tenor.com/images/36b2219bce143359a23e9e7d148c0820/tenor.gif" width="240px" align="center"><br>
   </samp>
 </p>
 
 <p>
-  <b>:telescope: 2020 projects</b>
+  <b>:telescope: 2020 projects</b><br>
   I'm currently working on my third project with my school, a client projet.<br>
-  My two others projects are on my Github, the first one is a static website on the theme of space.
-  The second one is a design website using <a href="https://github.com/harvardartmuseums">Harvard Art Museums </a> API.<br><br>
+  My two others projects are on my Github, the first one is a static website on the theme of space.<br>
+  The second one is a design website using <a href="https://github.com/harvardartmuseums">Harvard Art Museums </a> API.<br>
 
   I'm also working on several personal projects, including the creation of an application using <a href="https://www.nasa.gov/">Nasa</a> API.<br>
 </p>
