@@ -13,9 +13,9 @@
 
 <p>
   <b>:telescope: 2020 projects</b><br>
-  I'm currently working on my third project with my school, a client projet, an intranet Média Transports.
-  My two others projects are on my Github, the first one is a static website on the theme of space.
-  The second one is a design website using <a href="https://github.com/harvardartmuseums">Harvard Art Museums </a> API.<br>
+  <p>I'm currently working on my third project with my school, a client projet, an intranet Média Transports.</p>
+  <p>My two others projects are on my Github, the first one is a static website on the theme of space.
+  The second one is a design website using <a href="https://github.com/harvardartmuseums">Harvard Art Museums </a> API.</p><br>
 
   I'm also working on several personal projects, including the creation of an application using <a href="https://www.nasa.gov/">Nasa</a> API.<br>
 </p>
