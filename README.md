@@ -13,7 +13,7 @@
 
 <p>
   <b>:telescope: 2020 projects</b><br>
-  I'm currently working on my third project with my school, a client projet.
+  I'm currently working on my third project with my school, a client projet, an intranet Média Transports.
   My two others projects are on my Github, the first one is a static website on the theme of space.
   The second one is a design website using <a href="https://github.com/harvardartmuseums">Harvard Art Museums </a> API.<br>
 
