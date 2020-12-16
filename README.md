@@ -20,4 +20,4 @@
   I'm also working on several personal projects, including the creation of an application using <a href="https://www.nasa.gov/">Nasa</a> API.<br>
 </p>
 
-<p>:computer: I am currently looking for an internship of 4 to 6 months (start on 01/04/2021).</p>
+<p>:computer: I am currently looking for an internship of 4 to 6 months (start on 01/03/2021).</p>
