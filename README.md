@@ -5,7 +5,7 @@
     :wave: Hi! I'm Delphine ! 
     <br>I'm a web and mobile developer student
     <br>at <em>Wild Code School</em> in Paris :sparkles:<br><br>
-    <img src="https://media.tenor.com/images/36b2219bce143359a23e9e7d148c0820/tenor.gif" width="240px" align="center">
+    <img src="http://ireki-quentin.fr/wp-content/uploads/2019/11/aurore-boreale-pole-1-1024x640.jpg" width="450px" align="center">
   </samp>
 </p>
 
