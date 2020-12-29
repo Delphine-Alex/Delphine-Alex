@@ -17,7 +17,7 @@
   My two others projects are on my Github, the first one is a static website on the theme of esports.
   The second one is a design website using <a href="https://github.com/harvardartmuseums">Harvard Art Museums </a> API.<br>
 
-  I'm also working on several personal projects, including the creation of an application using <a href="https://www.nasa.gov/">Nasa</a> API. You can see some of my projets here : <a href="https://games-lista.netlify.app/">Games List</a><br> and more very soon.
+  I'm also working on several personal projects, including the creation of an application using <a href="https://www.nasa.gov/">Nasa</a> API. You can see some of my projets here : <a href="https://games-lista.netlify.app/">Games List</a> and more very soon.<br>
 </p>
 
 <p>:computer: I am currently looking for an internship of 4 to 6 months (start on 01/03/2021).</p>
