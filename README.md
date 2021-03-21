@@ -4,7 +4,7 @@
   <samp>
     :wave: Hi! I'm Delphine ! 
     <br>I'm a web and mobile developer student
-    <br>at <em>Wild Code School</em> in Paris :sparkles:<br><br>
+    <br>at <em>Ynov Informatique Ingésup</em> in Paris :sparkles:<br><br>
     <img src="https://www.okvoyage.com/images/article/333-15-plus-belles-photos-aurore-boreale/aurore-boreale-09.jpg" width="350px" align="center">
   </samp>
 </p>
@@ -12,12 +12,32 @@
 <br>
 
 <p>
-  <b>:telescope: 2020 projects</b><br>
-  I'm currently working on my third project with my school, a client project, an intranet for MédiaTransports. 
-  My two others projects are on my Github, the first one is a static website on the theme of space.
-  The second one is a design website using <a href="https://github.com/harvardartmuseums">Harvard Art Museums </a> API.<br>
+  <b>:telescope: 2021 projects</b><br>
+  I'm currently an intern at GMI Aero for six mouths. 
+  › Development of a web and mobile application for a dashboard for monitoring aeronautical structure repairs.
 
-  I'm also working on several personal projects, including the creation of an application using <a href="https://www.nasa.gov/">Nasa</a> API. Don't hesitate to contact me, my projects are in private on my school's github.<br>
+  <b>:telescope: 2020 projects</b><br>
+  In 2020, I worked on three projects with my school. The first one is a static website on the theme of space. The second one is a design website using <a href="https://github.com/harvardartmuseums">Harvard Art Museums </a> API. The last one is a client project, an intranet for the society MédiaTransports.<br>
+
+  I'm also working on several personal projects, including the creation of an application using <a href="https://www.nasa.gov/">Nasa</a> API and an e-commerce website. Don't hesitate to contact me, my projects are in private on my school's github.<br>
 </p>
 
-<p>:computer: I am currently looking for an internship of 4 to 6 months (start on 01/03/2021).</p>
+<p>
+  <b>🚀 Skills :</b><br>
+
+  Prototyping :
+  › Figma - Adobe XD<br>
+
+  PAO :
+  › Illustrator - InDesign - Photoshop<br>
+
+  Langages informatiques et frameworks :
+  › HTML 5 - CSS 3 - JavaScript
+  › MySQL - PostgreSQL - NoSQL
+  › React.js - Angular - Vue.js
+  › PHP - Symphony
+  › Node.js - Express
+  › Android<br>
+</p>
+
+<p>:computer: I am currently looking for a block release training as a web developer full stack(start on 01/09/2021).</p>
