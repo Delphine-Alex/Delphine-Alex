@@ -12,16 +12,16 @@
 <br>
 
 <p>
-  <b>:telescope: 2021 projects</b><br>
-  I'm currently an intern at GMI Aero for six mouths. 
+  <b>:telescope: 2021 projects :</b><br>
+  I'm currently an intern at GMI Aero for six mouths.<br>
   › Development of a web and mobile application for a dashboard for monitoring aeronautical structure repairs.
 
-  <b>:telescope: 2020 projects</b><br>
+  <b> 2020 projects :</b><br>
   In 2020, I worked on three projects with my school. The first one is a static website on the theme of space. The second one is a design website using <a href="https://github.com/harvardartmuseums">Harvard Art Museums </a> API. The last one is a client project, an intranet for the society MédiaTransports.<br>
 
   I'm also working on several personal projects, including the creation of an application using <a href="https://www.nasa.gov/">Nasa</a> API and an e-commerce website. Don't hesitate to contact me, my projects are in private on my school's github.<br>
 </p>
-
+<br>
 <p>
   <b>🚀 Skills :</b><br>
 
@@ -31,7 +31,7 @@
   PAO :<br>
   › Illustrator - InDesign - Photoshop<br>
 
-  Langages informatiques et frameworks :<br>
+  Computer language and framework :<br>
   › HTML 5 - CSS 3 - JavaScript<br>
   › MySQL - PostgreSQL - NoSQL<br>
   › React.js - Angular - Vue.js<br>
