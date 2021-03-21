@@ -25,18 +25,18 @@
 <p>
   <b>🚀 Skills :</b><br>
 
-  Prototyping :
+  Prototyping :<br>
   › Figma - Adobe XD<br>
 
-  PAO :
+  PAO :<br>
   › Illustrator - InDesign - Photoshop<br>
 
-  Langages informatiques et frameworks :
-  › HTML 5 - CSS 3 - JavaScript
-  › MySQL - PostgreSQL - NoSQL
-  › React.js - Angular - Vue.js
-  › PHP - Symphony
-  › Node.js - Express
+  Langages informatiques et frameworks :<br>
+  › HTML 5 - CSS 3 - JavaScript<br>
+  › MySQL - PostgreSQL - NoSQL<br>
+  › React.js - Angular - Vue.js<br>
+  › PHP - Symphony<br>
+  › Node.js - Express<br>
   › Android<br>
 </p>
 
