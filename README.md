@@ -39,5 +39,3 @@
   › Node.js - Express<br>
   › Android<br>
 </p>
-<br>
-<p>:computer: I am currently looking for a block release training as a web developer full stack (start on 01/09/2021).</p>
