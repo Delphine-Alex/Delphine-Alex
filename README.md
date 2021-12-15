@@ -12,30 +12,28 @@
 <br>
 
 <p>
-  <b>:telescope: 2021 projects :</b><br>
-  I'm currently an intern at GMI Aero for six mouths.<br>
-  › Development of a web and mobile application for a dashboard for monitoring aeronautical structure repairs.
+  <b>:telescope: 2021 projects:</b><br>
+I am currently working at Odigo for a period of three years until I graduate!
 
-  <b> 2020 projects :</b><br>
-  In 2020, I worked on three projects with my school. The first one is a static website on the theme of space. The second one is a design website using <a href="https://github.com/harvardartmuseums">Harvard Art Museums </a> API. The last one is a client project, an intranet for the society MédiaTransports.<br>
+<b> 2020 projects:</b><br>
+I did an internship at GMI Aero for a period of six months. I developed a web and mobile application of a dashboard for monitoring the repairs of aeronautical structures with React and Node.
 
-  I'm also working on several personal projects, including the creation of an application using <a href="https://www.nasa.gov/">Nasa</a> API and an e-commerce website. Don't hesitate to contact me, my projects are in private on my school's github.<br>
 </p>
 <br>
 <p>
   <b>🚀 Skills :</b><br>
 
-  Prototyping :<br>
-  › Figma - Adobe XD<br>
+Prototyping :<br>
+› Figma - Adobe XD<br>
 
-  PAO :<br>
-  › Illustrator - InDesign - Photoshop<br>
+PAO :<br>
+› Illustrator - InDesign - Photoshop<br>
 
-  Computer language and framework :<br>
-  › HTML 5 - CSS 3 - JavaScript<br>
-  › MySQL - PostgreSQL - NoSQL<br>
-  › React.js - Angular - Vue.js<br>
-  › PHP - Symphony<br>
-  › Node.js - Express<br>
-  › Android<br>
+Computer language and framework :<br>
+› HTML 5 - CSS 3 - JavaScript<br>
+› MySQL - PostgreSQL - NoSQL<br>
+› React.js - Angular - React Native<br>
+› Node.js - Express<br>
+› Java<br>
+
 </p>
