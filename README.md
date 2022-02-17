@@ -3,7 +3,7 @@
   <br><br>
   <samp>
     :wave: Hi! I'm Delphine ! 
-    <br>I'm a web and mobile developer student
+    <br>I'm a software engineer
     <br>at <em>Ynov Informatique Ingésup</em> in Paris :sparkles:<br><br>
     <img src="https://www.okvoyage.com/images/article/333-15-plus-belles-photos-aurore-boreale/aurore-boreale-09.jpg" width="350px" align="center">
   </samp>
@@ -33,7 +33,8 @@ Computer language and framework :<br>
 › HTML 5 - CSS 3 - JavaScript<br>
 › MySQL - PostgreSQL - NoSQL<br>
 › React.js - Angular - React Native<br>
+› Java - Maven - Java Spring<br>
 › Node.js - Express<br>
-› Java<br>
+› C ++<br>
 
 </p>
