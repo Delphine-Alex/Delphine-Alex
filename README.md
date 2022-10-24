@@ -4,7 +4,7 @@
   <samp>
     :wave: Hi! I'm Delphine ! 
     <br>I'm a software engineer
-    <br>at <em>Ynov Informatique Ingésup</em> in Paris :sparkles:<br><br>
+    <br>at <em>Paris Ynov Informatique</em> :sparkles:<br><br>
     <img src="https://www.okvoyage.com/images/article/333-15-plus-belles-photos-aurore-boreale/aurore-boreale-09.jpg" width="350px" align="center">
   </samp>
 </p>
