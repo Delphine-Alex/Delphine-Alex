@@ -3,8 +3,7 @@
   <br><br>
   <samp>
     :wave: Hi! I'm Delphine ! 
-    <br>I'm a software engineer
-    <br>at <em>Paris Ynov Informatique</em> :sparkles:<br><br>
-    <img src="https://www.okvoyage.com/images/article/333-15-plus-belles-photos-aurore-boreale/aurore-boreale-09.jpg" width="350px" align="center">
+    <br>I'm a software engineer Salesforce
+    <br>at <em>Odigo</em> :sparkles:<br><br>
   </samp>
 </p>
