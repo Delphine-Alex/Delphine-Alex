@@ -54,7 +54,13 @@
 <details>
   <summary><b>:sparkles: 2022-2023 goal</b></summary>
    I earned my Bachelor's degree in Software Development in 2022 👩🏻‍🎓 During that time, I explored various technologies such as Java, React, Node... However, software development and low-level programming 
+
+
+
   are what truly drive me.
    <br>
    <br> I also closely followed the creation of a new programming language <a href="https://github.com/Eclalang/Ecla" target="_blank">ECLA</a> and worked with a team to build its <a href="https://ecla.dev" target="_blank">website</a>.
 </details>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
