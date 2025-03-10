@@ -1,0 +1,27 @@
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_TIMEZONE: "true"
+          TIME_RANGE: "7"
+          SHOW_TOTAL: "true"  
+          SHOW_LANGUAGES: "true"  
+          SHOW_EDITORS: "true"  
+          SHOW_OS: "true"  
+          SHOW_PROJECTS: "false"  
+          SHOW_LINES_OF_CODE: "false"  
+          SHOW_PROFILE_VIEWS: "false"  
+          SHOW_SHORT_INFO: "false"  
+          COMMIT_MESSAGE: "📊 WakaTime Stats Update"
