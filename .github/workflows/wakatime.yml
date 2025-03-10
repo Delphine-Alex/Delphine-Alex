@@ -30,4 +30,5 @@ jobs:
           SHOW_PROFILE_VIEWS: "false"  
           SHOW_SHORT_INFO: "false"
           SHOW_LOC_CHART: "false"
+          SHOW_UPDATED_DATE: "false"
           COMMIT_MESSAGE: "📊 WakaTime Stats Update"
