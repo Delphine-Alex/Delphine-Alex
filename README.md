@@ -55,9 +55,10 @@
 ### Work Time of last 7 days
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
 ```text
-🌐 Time Zone: Europe/Paris
+🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
 C                        23 mins             ██████████████████████░░░   88.29 % 
