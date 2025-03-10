@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: anmol098/waka-readme-stats@master
+      - uses: uses: anmol098/waka-readme-stats@V1.1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
@@ -19,8 +19,8 @@ jobs:
           SHOW_TIMEZONE: "true"
           TIME_RANGE: "false"
           SHOW_TOTAL: "false"  
-          SHOW_LANGUAGES: "true"
-          SHOW_LANGUAGE: "false"
+          SHOW_LANGUAGES: "false"
+          SHOW_LANGUAGE: "true"
           SHOW_EDITORS: "true"  
           SHOW_OS: "true"  
           SHOW_PROJECTS: "false"  
