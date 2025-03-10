@@ -20,7 +20,7 @@ jobs:
           TIME_RANGE: "false"
           SHOW_TOTAL: "false"  
           SHOW_LANGUAGES: "true"
-          SHOW_LANGUAGE: "true"
+          SHOW_LANGUAGE: "false"
           SHOW_EDITORS: "true"  
           SHOW_OS: "true"  
           SHOW_PROJECTS: "false"  
