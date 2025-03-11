@@ -54,8 +54,9 @@
 
 ### Work Time of last 7 days
 
+<br>
+
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Europe/Paris
