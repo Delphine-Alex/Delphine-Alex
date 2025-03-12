@@ -22,6 +22,7 @@ jobs:
           TIME_RANGE: "false"
           SHOW_TOTAL: "false"  
           SHOW_LANGUAGES: "false"
+          SYMBOL_VERSION: 2
           SHOW_LANGUAGE: "true"
           SHOW_EDITORS: "true"  
           SHOW_OS: "true"  
